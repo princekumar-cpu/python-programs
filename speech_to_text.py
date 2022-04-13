@@ -1,6 +1,6 @@
 import speech_recognition as sr
 import pyttsx3
-
+#Please above library first
 r = sr.Recognizer()
 def speak1(text):                               
         speaker = pyttsx3.init()               
