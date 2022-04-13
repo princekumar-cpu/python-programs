@@ -1,4 +1,11 @@
-# n is the number of rows
+# n is the number of rows you want print
+'''
+      *
+    *   *
+  *   *    *
+    *    *
+       *
+'''
 n = 6
 for i in range(1,n+2):
     for j in range(n,i,-1):
